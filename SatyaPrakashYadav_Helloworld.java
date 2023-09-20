@@ -1,4 +1,4 @@
-public class SatyaPrakashYadav_helloworld {
+class SatyaPrakashYadav_helloworld {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
